@@ -1,5 +1,5 @@
 
-# AWS Managed Blockchain Client Implementation
+# AWS Managed Blockchain Lambda Client Implementation
 
 ## Setup an AWS Managed Blockchain Service
 
